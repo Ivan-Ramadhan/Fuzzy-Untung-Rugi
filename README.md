@@ -1,6 +1,11 @@
 # Fuzzy-Untung-Rugi
 
-Fuzzy menggunakan python3 inferensi Model Mamdani
+Fuzzy menggunakan python3 inferensi Model Mamdani.
+
+Library Requirement:
+
+* numpy
+* matplotlib
 
 ## Input
 
