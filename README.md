@@ -2,7 +2,7 @@
 
 Fuzzy menggunakan python3 inferensi Model Mamdani.
 
-Library Requirement:
+Library Requirements:
 
 * numpy
 * matplotlib
